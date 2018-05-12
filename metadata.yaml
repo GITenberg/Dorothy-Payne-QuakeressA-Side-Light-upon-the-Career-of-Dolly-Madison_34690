@@ -1,0 +1,26 @@
+_repo: Dorothy-Payne-QuakeressA-Side-Light-upon-the-Career-of-Dolly-Madison_34690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barnard, Ella K. (Ella Kent)
+    alias: Barnard, Ella Kent
+    birthdate: 1853
+    gutenberg_agent_id: '37169'
+    url: http://www.gutenberg.org/2009/agents/37169
+description: ''
+gutenberg_issued: '2010-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Madison, Dolley, 1768-1849'
+title: 'Dorothy Payne, Quakeress: A Side-Light Upon the Career of ''Dolly'' Madison'
+url: http://www.gutenberg.org/ebooks/34690
